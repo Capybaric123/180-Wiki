@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "Danny's Wiki"
+title = "180 Wiki"
 theme = "hugo-book"
 
 disablePathToLower = true
