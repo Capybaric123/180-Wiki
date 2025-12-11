@@ -3,23 +3,17 @@ title: Home
 type: docs
 ---
 # Home
-
 ---
+Welcome to the homepage of the 180 mosquito squadron wiki. Here you can find a 
+lot of usefull information about the dressing standards, commands, ranks, 
+history of the squadron and more!
 
-Welcome to the home page of this new wiki based on the HUGO static page generator, and enjoy the new style of a brand new wiki!
-
-## Info
-
+## Contribution
 ---
+I really appreciate any kind of help from your side. If you have an idea for a 
+new article, a way to improve an existing page, or want to just help with the 
+development, I will be glad to help!
 
-This is a simple wiki style website, hosted on github using the HUGO's github actions deployment to run HUGO websites on github pages, which is quite usefull. I would really like to appreciate the developers of _hugo-book_ - the theme of this website. It is a pleasure to work with this website software and I hope that by creating this website I will inspire other people to contribute or create their own websites, since web development had become super easy these days! Thanks for reading this!
+*_If you would like to contribute, email your ideas at [DSorokin097@cdt.cadets.gc.ca](mailto:DSorokin097@cdt.cadets.gc.ca)!_*
 
-## Contributing
-
----
-
-If you would like to contribute to this project you are always free to do so, you can either press the _**edit this page**_ button at the bottom of any existing page or you can just follow <a href="https://github.com/Capybaric123/Danny-s-Wiki/tree/main" target="_blank">this</a> link and create your own page instead of editing one.
-
----
-
-After you are done working on your own, or editing someone else's page, you can make a pull request and I will review the page and if it is appropriate I will of course accept the pull request and your new page will be on the website!
+I appreciate any and all help with the development of this wiki/website!
